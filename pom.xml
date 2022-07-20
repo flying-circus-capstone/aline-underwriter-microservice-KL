@@ -7,6 +7,7 @@
     <groupId>com.aline</groupId>
     <artifactId>aline-underwriter-microservice</artifactId>
     <version>0.1.0</version>
+    <name>Underwriter Microservice KL</name>
 
     <packaging>pom</packaging>
 
